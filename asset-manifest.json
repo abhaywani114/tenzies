@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abhaywani114.github.io/tenzies/static/css/main.6a33be4a.css",
+    "main.js": "/abhaywani114.github.io/tenzies/static/js/main.7f71e69a.js",
+    "index.html": "/abhaywani114.github.io/tenzies/index.html",
+    "main.6a33be4a.css.map": "/abhaywani114.github.io/tenzies/static/css/main.6a33be4a.css.map",
+    "main.7f71e69a.js.map": "/abhaywani114.github.io/tenzies/static/js/main.7f71e69a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a33be4a.css",
+    "static/js/main.7f71e69a.js"
+  ]
+}
