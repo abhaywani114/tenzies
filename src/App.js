@@ -1,25 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import GameView from './components/GameView'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import './style.css'
+
+export default function App() {
+	return (
+		<main>
+			<GameView />	
+			<div className="sign_div center">
+				<p className="sign">BUILD BY: <a href="" className="sign_a">Abrar Ajaz Wani</a></p>
+			</div>
+		</main>
+	)
 }
-
-export default App;
